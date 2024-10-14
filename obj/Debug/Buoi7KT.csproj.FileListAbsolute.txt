@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\Buoi7KT\bin\Debug\Buoi7KT.exe.config
+C:\Users\ADMIN\source\repos\Buoi7KT\bin\Debug\Buoi7KT.exe
+C:\Users\ADMIN\source\repos\Buoi7KT\bin\Debug\Buoi7KT.pdb
+C:\Users\ADMIN\source\repos\Buoi7KT\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\source\repos\Buoi7KT\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\source\repos\Buoi7KT\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\source\repos\Buoi7KT\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\source\repos\Buoi7KT\obj\Debug\Buoi7KT.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Buoi7KT\obj\Debug\Buoi7KT.Form1.resources
+C:\Users\ADMIN\source\repos\Buoi7KT\obj\Debug\Buoi7KT.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Buoi7KT\obj\Debug\Buoi7KT.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Buoi7KT\obj\Debug\Buoi7KT.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Buoi7KT\obj\Debug\Buoi7KT.csproj.Up2Date
+C:\Users\ADMIN\source\repos\Buoi7KT\obj\Debug\Buoi7KT.exe
+C:\Users\ADMIN\source\repos\Buoi7KT\obj\Debug\Buoi7KT.pdb
